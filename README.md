@@ -6,7 +6,4 @@ I'm Aman from Bangalore , and I do Native Android and Google Cloud . I really en
 
 Skills: Recycler View / MVVM / Room Database / Retrofit / Firebase / Volley Library / Figma / Compute Engine / Google BigQuery / Google App Engine / Google Kubernetes Engine /  Google Cloud Platform
 
-- 🔭 I’m currently working on this page. 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/aman021202)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aman-kumar-singh-8020a5233//)  
